@@ -1,7 +1,7 @@
 # CTF-101
 # 🔍 Reverse Engineering Writeups
 
-This repository contains writeups for reverse engineering challenges from various Capture The Flag (CTF) competitions.
+This repository contains writeups for reverse engineering challenges from CTF 101.
 
 Each writeup includes:
 - A brief description of the challenge
