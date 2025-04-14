@@ -18,4 +18,3 @@ Each writeup includes:
 - Qiling / Unicorn
 - Strings / ltrace / strace / objdump / GDB
 
-## 📁 Structure
