@@ -107,7 +107,7 @@ def find_flags():
                 valid_flags.append(flag)
     return valid_flags
 
-    if __name__ == "__main__":
+if __name__ == "__main__":
         flags = find_flags()
         print("Valid flag(s) found:")
         for flag in flags:
